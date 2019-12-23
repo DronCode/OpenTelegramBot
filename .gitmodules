@@ -1,0 +1,9 @@
+[submodule "modules/fmt"]
+	path = modules/fmt
+	url = https://github.com/fmtlib/fmt
+[submodule "modules/json"]
+	path = modules/json
+	url = https://github.com/nlohmann/json
+[submodule "modules/spdlog"]
+	path = modules/spdlog
+	url = https://github.com/gabime/spdlog
